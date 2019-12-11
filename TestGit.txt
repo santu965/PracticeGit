@@ -2,3 +2,6 @@ THis is initial git file '
 
 first modification
 
+second modification
+
+third modification second commit
